@@ -161,7 +161,7 @@ int main()
             break;
 
         case 4:
-        printf("Obrigado por utilizar o sistema!\n");
+        printf("Obrigado por utilizar o nosso sistema, até breve!\n");
         return 0;
         break;    
 
